@@ -10,7 +10,6 @@
 <img src="https://github.com/user-attachments/assets/a6433c12-2120-4b8d-8eaa-f540b5bd306d" width="240" height="54">
 
 
-
 ### About:
 Microsoft Outlook AI Copilot is a custom add-in app that integrates the capabilities of ChatGPT within the Microsoft Outlook Mail app. Specially developed for client-facing teams, this app aims to:
 - Increase team members' efficiency                [saving at least 5 hours/week with AI-powered email drafting]
@@ -21,5 +20,8 @@ Microsoft Outlook AI Copilot is a custom add-in app that integrates the capabili
 As a result, this will elevate a company's customer service and enable teams to focus more on what matters.
 
 ### Samples:
+<img src="https://github.com/user-attachments/assets/5a67bb6f-93f8-4657-ba6d-d9729971e71a" width="" height=""><br><br>
+<img src="https://github.com/user-attachments/assets/7dfc8960-4f08-486f-9fe8-9f284f7cced8" width="" height="">
+
 
 </details>
