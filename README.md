@@ -31,9 +31,9 @@ As a result, this will elevate a company's customer service and enable teams to 
 
 <img src="https://github.com/user-attachments/assets/c41ac9eb-a181-436e-ae28-9164b1b1d4ff" width="130" height="100">&emsp;
 <img src="https://github.com/user-attachments/assets/acc76afb-66c4-4528-95ad-532bbb9efae8" width="125" height="100">&emsp;
-<img src="https://github.com/user-attachments/assets/4afeeb10-28d8-41a3-b4de-1967f05cf108" width="100" height="100">&emsp; &emsp;
-<img src="https://github.com/user-attachments/assets/af0cee93-706e-4116-a91e-2f6253c9bb0e" width="65" height="55.5">&emsp;
-<img src="https://github.com/user-attachments/assets/a6433c12-2120-4b8d-8eaa-f540b5bd306d" width="240" height="54">
+<img src="https://github.com/user-attachments/assets/4afeeb10-28d8-41a3-b4de-1967f05cf108" width="100" height="100">&emsp;
+<img src="https://github.com/user-attachments/assets/8836fc70-2e35-43e0-a4bb-ac0674a81fde" width="180" height="110">&emsp;
+<img src="https://github.com/user-attachments/assets/7bfd8d5c-5098-4c39-b40c-ee9bcec1b3f2" width="186" height="134">
 
 
 ### About:
