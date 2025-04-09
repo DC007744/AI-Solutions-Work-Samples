@@ -56,7 +56,7 @@ Specially developed for sales teams to quickly quote a price to customers, this 
 <summary><h2>Project-3: Custom AI Agents tailored for a company with RAG</h2></summary>
 
 <img src="https://github.com/user-attachments/assets/0788c47b-d580-4789-a697-93164b3bfe7e" width="110" height="60">&emsp;&emsp;
-<img src="https://github.com/user-attachments/assets/ae90f5ab-5474-4c76-87cf-cbb8035d945a" width="252" height="85">&emsp;
+<img src="https://github.com/user-attachments/assets/ae90f5ab-5474-4c76-87cf-cbb8035d945a" width="280" height="85">&emsp;
 <img src="https://github.com/user-attachments/assets/64ed3fd6-97cb-4286-ac5f-349a974b54eb" width="200" height="120">&emsp;
 <img src="https://github.com/user-attachments/assets/785541fe-9d74-4fb0-bb40-1424d1052355" width="140" height="78">&emsp;
 
