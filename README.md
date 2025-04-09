@@ -62,7 +62,7 @@ Specially developed for sales teams to quickly quote a price to customers, this 
 
 
 ### About:
-Equipped with various tools through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction), this is an intelligent AI assistant that can perform a variety of tasks for teams like **creating new entries on SAP**, **fetching documents** from an internal company database, **browsing the web autonomously for various tasks**, and can be customized for a lot more. In addition, the assitant fetches releant company data before providing any response (through RAG).
+Equipped with various tools through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction), this is an intelligent AI assistant that can perform a variety of tasks for teams like **creating new entries on SAP**, **fetching documents** from an internal company database, **browsing the web autonomously for various tasks**, and can be customized for a lot more. In addition, the assitant fetches relevant company data before providing any response (through RAG).
 
 ### Samples:
 <img src="https://github.com/user-attachments/assets/f5f1a85c-8eab-4b92-805d-7779fdd49166" width="" height=""><br><br>
