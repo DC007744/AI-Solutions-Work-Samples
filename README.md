@@ -1,7 +1,7 @@
 # AI-Solutions-Work-Samples
 
 <details>
-<summary><h2>Project-1: Microsoft Outlook AI Copilot (Generative AI)</h2></summary>
+<summary><h2>Project-1: Microsoft Outlook AI Copilot</h2></summary>
 
 <img src="https://github.com/user-attachments/assets/d0e29b9b-8f5e-4e5f-86a9-9abdaaa919ae" width="100" height="100">&emsp;
 <img src="https://github.com/user-attachments/assets/bcc16f6d-0aa3-48b8-b073-fc6f5cd6f5ff" width="200" height="54">&emsp; &emsp;
@@ -27,7 +27,7 @@ As a result, this will elevate a company's customer service and enable teams to 
 
 
 <details>
-<summary><h2>Project-2: Labor Cost Prediction for Jewelry Products (Machine Learning)</h2></summary>
+<summary><h2>Project-2: Labor Cost Prediction for Jewelry Items using Machine Learning</h2></summary>
 
 <img src="https://github.com/user-attachments/assets/c41ac9eb-a181-436e-ae28-9164b1b1d4ff" width="130" height="100">&emsp;
 <img src="https://github.com/user-attachments/assets/acc76afb-66c4-4528-95ad-532bbb9efae8" width="125" height="100">&emsp;
@@ -53,21 +53,16 @@ Specially developed for sales teams to quickly quote a price to customers, this 
 
 
 <details>
-<summary><h2>Project-3: Custom AI Agents tailored for a company with RAG (Generative AI)</h2></summary>
+<summary><h2>Project-3: Custom AI Agents tailored for a company with RAG</h2></summary>
 
-<img src="https://github.com/user-attachments/assets/0788c47b-d580-4789-a697-93164b3bfe7e" width="210" height="100">&emsp;&emsp;
-<img src="https://github.com/user-attachments/assets/ae90f5ab-5474-4c76-87cf-cbb8035d945a" width="350" height="100">&emsp;
-<img src="https://github.com/user-attachments/assets/b2d040ee-2100-4232-a6f3-c06fb48039f9" width="200" height="200">&emsp;
-<img src="https://github.com/user-attachments/assets/4e7d4020-0895-43b6-aff3-5c04b7aa8fee" width="180" height="110">&emsp;
+<img src="https://github.com/user-attachments/assets/0788c47b-d580-4789-a697-93164b3bfe7e" width="110" height="60">&emsp;&emsp;
+<img src="https://github.com/user-attachments/assets/ae90f5ab-5474-4c76-87cf-cbb8035d945a" width="232" height="85">&emsp;
+<img src="https://github.com/user-attachments/assets/64ed3fd6-97cb-4286-ac5f-349a974b54eb" width="100" height="60">&emsp;
+<img src="https://github.com/user-attachments/assets/785541fe-9d74-4fb0-bb40-1424d1052355" width="140" height="78">&emsp;
 
 
 ### About:
-This is a custom app that takes user input through a form and returns the predicted labor cost for a jewellery product with ~85%. In addition to getting AI predictions, users can also **retrain models** without any coding, **provide feedback to AI** through an intuitive interface, as well as **bulk upload new training data** as needed.
-
-Specially developed for sales teams to quickly quote a price to customers, this app aims to:
-- Increase accuracy of price quoted to customers   [making overall costs more predictable for customers]
-- Increase team members' efficiency                [no more manual calculation and faster price estimation]
-
+Equipped with various tools through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction), this is an intelligent AI assistant that can perform a variety of tasks for teams like **creating new entries on SAP**, **fetching documents** from an internal company database, **browsing the web autonomously for various tasks**, and can be customized for a lot more. In addition, the assitant fetches releant company data before providing any response (through RAG).
 
 ### Samples:
 <img src="https://github.com/user-attachments/assets/f5f1a85c-8eab-4b92-805d-7779fdd49166" width="" height=""><br><br>
