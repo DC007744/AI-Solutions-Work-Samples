@@ -22,6 +22,30 @@ As a result, this will elevate a company's customer service and enable teams to 
 ### Samples:
 <img src="https://github.com/user-attachments/assets/5a67bb6f-93f8-4657-ba6d-d9729971e71a" width="" height=""><br><br>
 <img src="https://github.com/user-attachments/assets/7dfc8960-4f08-486f-9fe8-9f284f7cced8" width="" height="">
+</details>
 
 
+
+<details>
+<summary><h2>Project-2: Labor Cost Prediction for Jewelry Products (Machine Learning)</h2></summary>
+
+<img src="https://github.com/user-attachments/assets/c41ac9eb-a181-436e-ae28-9164b1b1d4ff" width="130" height="100">&emsp;
+<img src="https://github.com/user-attachments/assets/acc76afb-66c4-4528-95ad-532bbb9efae8" width="125" height="100">&emsp;
+<img src="https://github.com/user-attachments/assets/4afeeb10-28d8-41a3-b4de-1967f05cf108" width="100" height="100">&emsp; &emsp;
+<img src="https://github.com/user-attachments/assets/af0cee93-706e-4116-a91e-2f6253c9bb0e" width="65" height="55.5">&emsp;
+<img src="https://github.com/user-attachments/assets/a6433c12-2120-4b8d-8eaa-f540b5bd306d" width="240" height="54">
+
+
+### About:
+This is a custom app that takes user input through a form and returns the predicted labor cost for a jewellery product with ~85%. In addition to getting AI predictions, users can also **retrain models** without any coding, **provide feedback to AI** through an intuitive interface, as well as **bulk upload new training data** as needed.
+
+Specially developed for sales teams to quickly quote a price to customers, this app aims to:
+- Increase accuracy of price quoted to customers   [making overall costs more predictable for customers]
+- Increase team members' efficiency                [no more manual calculation and faster price estimation]
+
+
+### Samples:
+<img src="https://github.com/user-attachments/assets/f5f1a85c-8eab-4b92-805d-7779fdd49166" width="" height=""><br><br>
+<img src="https://github.com/user-attachments/assets/b2b8840f-b6d5-4d21-834b-ee35c923ef91" width="" height=""><br><br>
+<img src="https://github.com/user-attachments/assets/6a626f10-4675-4861-ba41-63c048b3c486" width="" height=""><br><br>
 </details>
