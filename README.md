@@ -9,12 +9,8 @@
 <img src="https://github.com/user-attachments/assets/af0cee93-706e-4116-a91e-2f6253c9bb0e" width="65" height="55.5">&emsp;
 <img src="https://github.com/user-attachments/assets/a6433c12-2120-4b8d-8eaa-f540b5bd306d" width="240" height="54">
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F478757%2Fexpo&psig=AOvVaw3ZtQ79tLf22ccm8nqNkSl5&ust=1760603374341000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC_sOfkpZADFQAAAAAdAAAAABAV<img width="320" height="320" alt="image" src="" />
-
-
-
 ### About:
-Microsoft Outlook AI Copilot is a custom add-in app that integrates the capabilities of ChatGPT within the Microsoft Outlook Mail app. Specially developed for client-facing teams, this app aims to:
+Proc1 is a procurement app that integrates the capabilities of ChatGPT within the Microsoft Outlook Mail app. Specially developed for client-facing teams, this app aims to:
 - Increase team members' efficiency                [saving at least 5 hours/week with AI-powered email drafting]
 - Reduce a company's overall turnaround time       [enabling team members to keep track of action items with AI-powered task list generator]
 - Reduce errors in written communication           [grammar and tone correction using AI]
