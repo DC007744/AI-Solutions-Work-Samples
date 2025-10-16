@@ -3,11 +3,12 @@
 <details>
 <summary><h2>Project-1: Proc1 (AI-powered procurement app for mobile and email)</h2></summary>
 
-<img src="https://github.com/user-attachments/assets/57f4e1ea-7677-4676-a2ac-58f42c4a2bbd" width="200" height="200">&emsp;
-<img src="" width="200" height="54">&emsp; &emsp;
+<img src="https://github.com/user-attachments/assets/57f4e1ea-7677-4676-a2ac-58f42c4a2bbd" width="200" height="180">&emsp;
+<img src="https://github.com/user-attachments/assets/6af69f2b-b349-4fee-89a9-ec71df460150" width="200" height="200">&emsp; &emsp;
 <img src="https://github.com/user-attachments/assets/a7933dab-8ee3-49e1-9247-6e3f41c82e0b" width="100" height="100">&emsp; &emsp;
 <img src="https://github.com/user-attachments/assets/af0cee93-706e-4116-a91e-2f6253c9bb0e" width="65" height="55.5">&emsp;
 <img src="https://github.com/user-attachments/assets/a6433c12-2120-4b8d-8eaa-f540b5bd306d" width="240" height="54">
+
 
 ### About:
 Proc1 is a procurement app that integrates the capabilities of ChatGPT within the Microsoft Outlook Mail app. Specially developed for client-facing teams, this app aims to:
